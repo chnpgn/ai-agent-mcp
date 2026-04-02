@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "ai-agent-server": {
+      "command": ".venv\\Scripts\\python.exe",
+      "args": ["server/mcp_server.py"]
+    }
+  }
+}
